@@ -2,7 +2,7 @@ title: Brumfield Labs
 description: Creators of FromThePage
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+remote_theme: fongandrew/hydeout
 
 gems:
   - jekyll-mentions
