@@ -1,5 +1,5 @@
 <h2>About Us</h2>
-We're a "mom and pop" software consultancy specializing in crowdsourcing and historical documents.
+We're a boutique software consultancy specializing in crowdsourcing and historical documents.
 
 Our flagship product is [FromThePage](http://fromthepage.com/), “Simply the finest crowdsourcing manuscript transcription software on the planet”.  FromThePage is available as "Software As a Service" for a reasonable monthly or annual fee.  It's also open-source software you can install and run yourself.  We provide [complimentary services for FromThePage](http://fromthepage.com/static/run_server).
 
