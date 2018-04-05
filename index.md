@@ -5,7 +5,7 @@ Our flagship product is [FromThePage](http://fromthepage.com/), “Simply the fi
 
 In addition to FromThePage, we also provide Digital Humanities consulting and software development.
 
-You can engage us to put on a workshop on a variety of topics including crowdsourcing, software development for the digital humanities, and [IIIF](http://www.brumfieldlabs.com/IIIF_Workshop).
+We offer workshop on a variety of topics including crowdsourcing, software development for the digital humanities, and [IIIF](http://www.brumfieldlabs.com/IIIF_Workshop).
 
 <h2>Our Projects</h2>
 Some of our other project include:
