@@ -3,6 +3,10 @@ We're a boutique software consultancy specializing in crowdsourcing and historic
 
 Our flagship product is [FromThePage](http://fromthepage.com/), “Simply the finest crowdsourcing manuscript transcription software on the planet”.  FromThePage is available as "Software As a Service" for a reasonable monthly or annual fee.  It's also open-source software you can install and run yourself.  We provide [complimentary services for FromThePage](http://fromthepage.com/static/run_server).
 
+In addition to FromThePage, we also provide Digital Humanities consulting and software development.
+
+You can engage us to put on a workshop on a variety of topics including crowdsourcing, software development for the digital humanities, and [IIIF](http://www.brumfieldlabs.com/IIIF_Workshop).
+
 <h2>Our Projects</h2>
 Some of our other project include:
 
