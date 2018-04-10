@@ -1,3 +1,9 @@
+---
+layout: page
+title: IIIF Workshops
+sidebar_link: true
+---
+
 IIIF is an emerging standard for publishing and interacting with images.  Brumfield Labs has been working with the IIIF Consortium since 2014, when FromThePage was the first software beyond image viewers to accept IIIF based images.  We've received two commissioned implementation grants from the IIIF Consortium, spoken at the annual IIIF conferences in 2017 and 2018, and spoken on IIIF at the Texas Conference on Digital Libraries (2017, 2018).  We've conducted workshops for the American Art Collaborative and the Visual Resources Association Foundation.  We wrote the [IIIF Implementation Guide](http://iiif.io/assets/acc_implementation_guide_011017.pdf).
 
 We offer in-person IIIF training workshops for institutions or groups.
