@@ -1,13 +1,11 @@
 <h2>Who are we?</h2>
 
 The partners of Brumfield Labs are experts in Software Development For Historic Documents.  Our work includes
-<ul>
-<li>Visualizations.  
-<li>Natural Language Processing.  
-<li>Linked Open Data.  
-<li>IIIF.
-</ul>
 
+* Visualizations.  
+* Natural Language Processing.  
+* Linked Open Data.  
+* IIIF.
 
 In his two decades of experience as a software engineer, Ben Brumfield has worked with cultural heritage organizations full-time for five years, first as an independent consultant, and then with Brumfield Labs. Prior to Brumfield Labs, he spent eleven years leading software development teams building fundraising and constituent engagement solutions for non-profit clients at Convio, Inc. Ben is the creator of the FromThePage crowdsourcing platform and has maintained a weblog about crowdsourced manuscript transcription at http://manuscripttranscription.blogspot.com/ since 2007. He has presented on the intersection of technology, crowd-sourcing, and digital editions at the American Historical Association, Society of Southwestern Archivists, Digital Humanities, the American Library Association and SXSW. He was an invited speaker at Digital Editions: Academia, Cultural Heritage, Society/ DiXiT Conference. Ben brings deep technical expertise in the area of digital documentary editions. He has a BA in Computer Science and Linguistics from Rice University.  See [Ben's CV.](https://docs.google.com/document/d/1OD_DI_8oDJ15CUxrU_4uaEpZP2-Kpb1LJp2WBaZdWMg/edit) 
 
