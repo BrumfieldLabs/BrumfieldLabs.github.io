@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: FromThePage Projects
 sidebar_link: true
 ---
