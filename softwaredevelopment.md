@@ -12,3 +12,6 @@ Research, recommendations, prototyping and development of a system for identifyi
 
 **Digital Austin Papers**  
 Revision and enhancement to a [website displaying the papers of Stephen F. Austin](http://digitalaustinpapers.org/), including data correction, geo-coding, and semantic analysis visualization for the University of North Texas.
+
+**FreeREG2 and FreeCEN2 (Free UK Genealogy)**
+ (2012 - present) Devised an entirely new architecture for the FreeREG project which would support online transcription and migrate older CSV-based transcripts and support existing volunteers' workflows and tools. After thorough testing—and extensive collaboration with FreeREG coordinators, officers, and volunteer developers and testers—the system was deployed in the Spring of 2015 with a database containing 32 million records.
