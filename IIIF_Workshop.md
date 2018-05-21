@@ -47,6 +47,8 @@ Attendees at previous workshops have said the most helpful takeaways were:
 
 4:15 Final Things
 
+[Sample 1 day workshop material](https://tinyurl.com/vrafiiif)
+
 The cost for the 1 day workshop is $2000 + travel costs.
 
 ## Sample 2 day workshop agenda
@@ -83,7 +85,15 @@ The cost for the 1 day workshop is $2000 + travel costs.
 
 3:30  Final Things
 
+[Sample 2 day workshop material](https://drive.google.com/drive/u/0/folders/0B28LKufIAmn6SHhJZHJDQ3gxWEE)
+
 The cost for a 2 day workshop is $4000 + travel costs.
+
+## Conference workshops
+
+We offer a 2-4 hour IIIF introduction tailored to your conference.  Contact us for more details.
+
+[Sample conference workshop material](https://docs.google.com/presentation/d/1hX_NOr3uqmjsF_KZUH9vABOqT4_WPwb1RrHM0q5UoNQ/edit?usp=sharing)
 
 ***
 
