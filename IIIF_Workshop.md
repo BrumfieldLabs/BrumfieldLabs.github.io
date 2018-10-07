@@ -79,7 +79,7 @@ The cost for the 1 day workshop is $2000 + travel costs.
 
 2:30  Getting Involved with IIIF
 
-2:45  IIIF Futures
+2:45  IIIF 3.0
 
 3:00  Institutional Buy-In and Adoption Paths
 
